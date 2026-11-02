@@ -9,7 +9,7 @@ gspread
 gspread_dataframe
 numpy
 requests
-pylint==2.8.3
+pylint==4.0.9
 pytest==6.0.2
 pytest-cov==2.11.1
 pytest-xdist==2.1.0
